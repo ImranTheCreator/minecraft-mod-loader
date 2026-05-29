@@ -1,1 +1,1 @@
-# this code needs "pip install PySide6 requests" in pycharm to run and it for neoforge 1.21.1 users in tlauncher and it installs depedensies for you! (the app ) without you needing to spend 256 hours on it (:
+# this code needs "pip install PySide6 requests" in pycharm to run and it for neoforge 1.21.1 users in tlauncher and it comes with multiple versions of the loader! the mod loader installs depedensies for you without you needing to spend 256 hours on it (:
